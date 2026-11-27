@@ -12,7 +12,7 @@ Requires Valk 0.9.1 or newer.
 ## Install
 
 ```
-vman install github.com/ctxcode/valk-redis
+vman install github.com/zikue/valk-redis
 ```
 
 ## Example
